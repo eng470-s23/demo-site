@@ -1,8 +1,8 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: 
 
 # Setup
-title:               'ENG 470 Demo Site'
+title:               
 tagline:             
-description:         'A resource for DH Capstone students'
+description:         
 url:                 
 baseurl:             
