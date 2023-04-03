@@ -1,8 +1,14 @@
 # README for demo-site
 
-This repository is a demo ENG 470/570 students can clone to create their own project workspaces. It contains templates for all required components of the final portfolio. 
+This repository is a demo for ENG 470/570 students to clone in order to create individual project workspaces. It contains templates for all required components of the final portfolio, written in markdown. (Recommended markdown editor: [dillinger.io](https://dillinger.io/)). 
 
-The rest of this README file is a template to record project-level metadata, taken from [UO Libraries' research guide to Doing Digital Projects in the Open](https://researchguides.uoregon.edu/doingdigitalprojectsintheopen/workshop2). To customize it, delete this header section and the following line.
+- **[readme.md](readme.md) (this file)**: a template to record project-level metadata, taken from [UO Libraries' research guide to Doing Digital Projects in the Open](https://researchguides.uoregon.edu/doingdigitalprojectsintheopen/workshop2). To customize it, delete this header section up to the horizontal line (---).
+- **[license.md](license.md)**: the license defining how others can reuse your data and other content in your repository.
+- **[project-log.md](project-log.md)**: a weekly log for tracking your research notes and progress. This is also where your pitch, draft annotated bibliography, and draft environmental scan go. Revised versions of those materials will likely appear in your white paper.
+- **[data-management-plan.md](data-management-plan.md)**: your data management plan, explaining how your project files are stored, named, published, and protected. 
+- **[presentation.md](presentation.md)**: visual aids for your presentation at our class symposium in week 9. You may choose instead to use PowerPoint, in which case this file will be presentation.ppt or presentation.pptx.
+- **[white-paper.md](white-paper.md)**: final write-up of your project and lessons learned from conceptualizing and prototyping a researched digital humanities project. Your white paper will also contain, embed, or link to the project prototype itself, and it will likely serve as the homepage for the github pages site that you launch from your repository. 
+- **[_config.yml](_config.yml)**: the file that provides basic styling info to turn your repo into a static website. 
 
 ---
 
