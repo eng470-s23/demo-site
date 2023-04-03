@@ -2,7 +2,7 @@
 Based on the [UO library research guide on data management](https://researchguides.uoregon.edu/data-management) and UO's [Basic Accessibility Testing guidance](https://digitalaccessibility.uoregon.edu/assessment/basictesting).
 
 # expected data and formats
-*Data may originate from observations, experiments, or references; it may be derived from other sources, transformed, or the result of a simulation. Describe your data file formats. Whenever possible, use non-proprietary formats or convert your data to open, shareable formats when archiving data. Remember: data also includes your code and workflow documentation!*
+*Data may originate from observations, experiments, or references; it may be derived from other sources, transformed, or the result of a simulation. Describe your data file formats. Whenever possible, [use non-proprietary formats](https://researchguides.uoregon.edu/data-management/fileformats) or convert your data to open, shareable formats when archiving data. Remember: data also includes your code and workflow documentation!*
 
 - your text here
 
@@ -12,17 +12,12 @@ Based on the [UO library research guide on data management](https://researchguid
 - your text here
 
 # organization and storage
-*Describe storage methods and backup procedures for the data, including physical and cyber resources and facilities (hard-disk space, backup server, repository). Describe how you will take into consideration privacy, security, intellectual property, and other rights.*
+*Describe your [file naming convention and version control practices](https://researchguides.uoregon.edu/data-management/filenaming). Describe [storage methods and backup procedures](https://researchguides.uoregon.edu/data-management/backup) for the data, including physical and cyber resources and facilities (hard-disk space, backup server, repository). Describe how you will take into consideration privacy, security, intellectual property, and other rights.*
 
 - your text here
 
-# sharing and dissemination
-*Describe what you will do to provide others access to the data. Describe any restrictions on who may access the data and under what conditions and a timeline for providing access.*
-
-- your text here
-
-# preservation
-*Describe your plans for preserving data, outlining any changes in access anticipated during the preservation timeline, and documenting the resources and capabilities (e.g., equipment, connections, systems, expertise) needed to meet the preservation goals.*
+# sharing, publication, and archiving
+*Describe what you will do to [provide others access to the data](https://researchguides.uoregon.edu/data-management/archiving). Identify any restrictions on who may access the data and under what conditions and a timeline for providing access. Also describe your plans for preserving data, outlining any changes in access anticipated during the preservation timeline, and documenting the resources and capabilities (e.g., equipment, connections, systems, expertise) needed to meet the preservation goals.*
 
 - your text here
 
