@@ -7,7 +7,7 @@ Based on the [UO library research guide on data management](https://researchguid
 - your text here
 
 # documentation and metadata
-*Descriptions of your data (or metadata) can help you and others locate, understand, and interpret your data. It is useful during the research process, and is also a critical component of systems for publicizing and sharing data with others. Describe the applicable standards for metadata content and format that you will follow, including the procedures and tools/software you will use to capture and edit the metadata.*
+*Describe how you will [document your data](https://researchguides.uoregon.edu/data-management/readme) as you gather it. Descriptions of your data (or metadata) can help you and others locate, understand, and interpret your data. Describe the applicable standards for metadata content and format that you will follow, including the procedures and tools/software you will use to capture and edit the metadata.*
 
 - your text here
 
