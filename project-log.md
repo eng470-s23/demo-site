@@ -98,13 +98,27 @@
 - potential use for project: 
 
 ## environmental scan
-*The environmental scan situates your project within the existing scholarly research and articulates its contribution.*
-- *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
-- *What tools and methods will you use, and why are those the best technologies for your purposes?*
-- *What products or services will result? Deliverables may include a website, blog post, book, presentation, virtual exhibit, code, digitized materials, or service. Consider deliverables at multiple levels. For example, a website hosting a collection of digitized historical letters comprises two deliverables: the digitized letters and the website itself.*
-- *What constitutes success for the project? For each deliverable, document the conditions of its success. Consider not only the details of the product, but also your timeline and resource constraints. Be careful to avoid scope creep (i.e., inadvertently allowing the scope to expand beyond that of your proposed project).*
-- *For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
-- *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
+*The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
+
+### contribution
+*Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
+
+- respond here 
+
+### methods
+*What tools and methods will you use, and why are those the best technologies for your purposes?*
+
+- respond here 
+
+### stakeholders / audiences
+*For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
+
+- respond here 
+
+### dependencies and resources
+*What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
+
+- respond here 
 
 ---
 # week 7
