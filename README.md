@@ -35,3 +35,7 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
     - Value Labels:
 4. Units of measurement
 6. Geographic information
+
+## Credits and Acknowledgments
+
+This is where you'll acknowledge those to whom your project is indebted beyond your named collaborators and the sources on your bibliography.
