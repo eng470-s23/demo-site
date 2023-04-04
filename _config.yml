@@ -1,8 +1,8 @@
-remote_theme: https://pages-themes.github.io/midnight/
+remote_theme: pages-themes.github.io/midnight/
 
 # Setup
 title:  "ENG 470 S23 Demo Site"             
 tagline:             
 description:         
-url:     https://eng470-s23.github.io/demo-site/            
-baseurl:             
+url:     https://eng470-s23.github.io          
+baseurl:   /demo-site/            
