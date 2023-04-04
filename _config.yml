@@ -4,5 +4,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 title:  "ENG 470 S23 Demo Site"             
 tagline:             
 description:         
-url:     https://eng470-s23.github.io          
+url:     http://eng470-s23.github.io          
 baseurl:   /demo-site/            
