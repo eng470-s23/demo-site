@@ -10,7 +10,7 @@ Not a bad idea to include a table of contents here with relative links to your s
 
 ## Project Summary/Abstract (1 paragraph) 
 
-### Access info for your project (or embedded content)
+Be sure to include access info for your project (or embedded content).
 
 ## Project Origins and Goals
 
