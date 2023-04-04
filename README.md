@@ -9,6 +9,7 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 - **[presentation.md](presentation.md)**: visual aids for your presentation at our class symposium in week 9. You may choose instead to use PowerPoint, in which case this file will be presentation.ppt or presentation.pptx.
 - **[white-paper.md](white-paper.md)**: final write-up of your project and lessons learned from conceptualizing and prototyping a researched digital humanities project. Your white paper will also contain, embed, or link to the project prototype itself.
 - **[_config.yml](_config.yml)**: the file that provides basic styling info to turn your repo into a static website. 
+- **[index.md](index.md)**: the front page of your website, which can link to or aggregate any other parts of your repo using relative links.  
 
 ---
 
