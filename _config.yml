@@ -1,4 +1,4 @@
-theme: hacker
+remote_theme: pages-themes/dinky@v0.2.0
 
 # Setup
 title:  "ENG 470 S23 Demo Site"             
