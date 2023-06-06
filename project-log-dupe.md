@@ -1,5 +1,5 @@
 
-# Table of contents 
+# table of contents 
 [weekly notes](https://github.com/eng470-s23/demo-site/blob/main/project-log-dupe.md#weekly-notes) | [pitch](https://github.com/eng470-s23/demo-site/blob/main/project-log-dupe.md#pitch---week-4) | [search log, initial bibliography, and reading plan](https://github.com/eng470-s23/demo-site/blob/main/project-log-dupe.md#search-log-initial-bibliography-and-reading-plan---week-5) | [research question](https://github.com/eng470-s23/demo-site/blob/main/project-log-dupe.md#research-question---week-6) | [annotated bibliography](https://github.com/eng470-s23/demo-site/blob/main/project-log-dupe.md#annotated-bibliography---week-6-7) | [environmental scan](https://github.com/eng470-s23/demo-site/blob/main/project-log-dupe.md#environmental-scan---week-7) | [presentation feedback and reflection](https://github.com/eng470-s23/demo-site/blob/main/project-log-dupe.md#presentation-feedback-and-reflection---week-10)
 
 
