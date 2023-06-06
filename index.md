@@ -1,5 +1,14 @@
 Hello World! If you're running across this site, it's part of [a course at the University of Oregon](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
 
+---
+
+Example to delete
+[project log](/project-log.md)
+[presentation](/presentation.md)
+[data management plan](data-management.md)
+
+---
+
 Students: consider using your front page for your white paper, and linking within your white paper to polished versions of other pages. For example, here's a [reorganized and formatted presentation of the material from the project log](project-log-dupe.md). 
 
 For an example of what the white paper as a genre might look like, [check out this example based on some recent research of my own](/white-paper-dupe.md). 
