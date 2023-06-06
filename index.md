@@ -4,11 +4,9 @@ Hello World! If you're running across this site, it's part of [a course at the U
 
 Example to delete
 
-[project log](/project-log.md)
-
-[presentation](/presentation.md)
-
-[data management plan](data-management.md)
+- [project log](/project-log.md)
+- [presentation](/presentation.md)
+- [data management plan](data-management.md)
 
 ---
 
