@@ -1,10 +1,28 @@
-Hello World!
+Hello World! If you're running across this site, it's part of [a course at the University of Oregon](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
 
-If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
+Students: consider using your front page for your white paper, and linking within your white paper to important files, like your data management plan. 
 
-If you're a student in the class, the front page of your GitHub pages site will deploy from index.md. Put whatever content here you want to show up on your front page. Maybe that's your [white paper](white-paper.md) or your [presentation](presentation.md), or maybe you want to get fancy and embed your project here. 
+# Project Abstract
+Write a one-paragraph summary of your project purpose, methods, and outcomes. Be sure to include access info for your project (or embedded content) here.
 
-![A laptop showing an under-construction page created with a WordPress plugin](https://images.unsplash.com/photo-1590479773265-7464e5d48118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![front page of Environmental Justice Research Repository](https://github.com/eng470-s23/demo-site/blob/main/images/ejrr.JPG?raw=true)
 
-Photo by <a href="https://unsplash.com/@webfactoryltd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">WebFactory Ltd</a> on <a href="https://unsplash.com/photos/NoOrDKxUfzo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Visit the [Environmental Justice Research Repository]("https://unsplash.com/photos/NoOrDKxUfzo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
+
+# Project Origins and Goals
+It's very likely that elements of your pitch and/or environmental scan will be revised and incorporated here.
+
+# Project Activities, Team, and Participants
+Here's where you talk about what you did! This is where a well-maintained project log will be your best friend. Elements of your data management plan might go here, too. 
+
+# Project Outcomes
+Consider linking here to your presentation file, your dataset, etc. 
+
+# Project Continuation and Long-Term Impact
+Elements of your data management plan might go here. You might use parts of your environmental scan, too, or simply talk about your plans for the future. 
+
+# Bibliography
+ 
+
+
   
