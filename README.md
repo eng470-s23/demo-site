@@ -24,7 +24,7 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Data Access & Sharing
 1. [Licenses](https://choosealicense.com/) for the data and restrictions placed on the data
-3. Was data derived from another sourse, if so where?
+3. Was data derived from another source? If so, where?
 4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
 
 ## Methodological and Data-specific Information
