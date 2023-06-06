@@ -42,9 +42,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## search log, initial bibliography, and reading plan - week 5
 
 ### search log
-|			database			   |			search terms & constraints			 |		results	  |
-|------------------------------|-------------------------|----------------|
-|  JSTOR |      "this is a fake entry" | so i, don't have, any results! |
+- DATE: database, search terms & filters, results
+- DATE: database, search terms & filters, results
+- DATE: database, search terms & filters, results
+- DATE: database, search terms & filters, results
 
 ### initial bibliography
 1. source #1
