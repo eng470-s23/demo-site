@@ -1,6 +1,6 @@
 Hello World! If you're running across this site, it's part of [a course at the University of Oregon](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
 
-Students: consider using your front page for your white paper, and linking within your white paper to important files, like your data management plan. 
+Students: consider using your front page for your white paper, and linking within your white paper to polished versions of other pages. For example, here's a [reorganized and formatted presentation of the material from the project log](project-log-dupe.md). 
 
 # Project Abstract
 Write a one-paragraph summary of your project purpose, methods, and outcomes. Be sure to include access info for your project (or embedded content) here.
