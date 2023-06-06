@@ -2,6 +2,8 @@ Hello World! If you're running across this site, it's part of [a course at the U
 
 Students: consider using your front page for your white paper, and linking within your white paper to polished versions of other pages. For example, here's a [reorganized and formatted presentation of the material from the project log](project-log-dupe.md). 
 
+For an example of what the white paper as a genre might look like, [check out this example based on some recent research of my own](/white-paper-dupe.md). 
+
 # Project Abstract
 Write a one-paragraph summary of your project purpose, methods, and outcomes. Be sure to include access info for your project (or embedded content) here.
 
