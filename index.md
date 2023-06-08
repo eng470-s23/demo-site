@@ -1,5 +1,7 @@
 Hello World! If you're running across this site, it's part of [a course at the University of Oregon](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
 
+check out my [timeline](/test.html)
+
 ---
 
 Example to delete
