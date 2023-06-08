@@ -1,6 +1,3 @@
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" width="100%" frameborder="0"></iframe>
-
-
 Hello World! If you're running across this site, it's part of [a course at the University of Oregon](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
 
 ---
